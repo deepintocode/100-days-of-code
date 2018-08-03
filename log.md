@@ -15,3 +15,12 @@
 **Thoughts:** It seems like I'm working towards my goal, so I'm happy!
 
 **Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
+
+### Day 3: August 3, 2018
+
+**Today's Progress**: Finished FreeCodeCamp's Javascript Algorithms And Data Structures Certification section! Solved an issue that our [Chingu](https://chingu.io/) app was having. 
+
+**Thoughts:** Still not entirely sure how Array.prototype.reduce works and never understood what the case with our Chingu app was. At least it's working now for some reason...
+
+**Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures
+[Chingu App Repo](https://github.com/chingu-voyage6/Geckos-Team-30)
