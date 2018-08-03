@@ -22,5 +22,5 @@
 
 **Thoughts:** Still not entirely sure how Array.prototype.reduce works and never understood what the case with our Chingu app was. At least it's working now for some reason...
 
-**Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures
+**Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures)
 [Chingu App Repo](https://github.com/chingu-voyage6/Geckos-Team-30)
