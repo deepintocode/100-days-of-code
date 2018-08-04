@@ -18,13 +18,24 @@
 
 ### Day 3: August 3, 2018
 
-**Today's Progress**: Finished FreeCodeCamp's Javascript Algorithms And Data Structures Certification section! Solved an issue that our [Chingu](https://chingu.io/) app was having. 
+**Today's Progress**: Finished FreeCodeCamp's Javascript Algorithms And Data Structures Certification section! 
+
+Solved an issue that our [Chingu](https://chingu.io/) app was having. 
 
 **Thoughts:** Still not entirely sure how Array.prototype.reduce works and never understood what the case with our Chingu app was. At least it's working now for some reason...
 
 **Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures)
+
 [Chingu App Repo](https://github.com/chingu-voyage6/Geckos-Team-30)
 
-### Day 3: August 3, 2018
+### Day 4: August 4, 2018
 
 **Today's Progress**: Had some fun with [Flexbox Froggy](http://flexboxfroggy.com/)
+
+Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end-libraries/react)
+
+**Thoughts:** I want to get better with CSS, so I thought Flexbox Froggy was a good way to do that. Indeed, it was! The React section of FreeCodeCamp turned out to be quite easy, since I'm quite familiarised with the basics of React at this point.
+
+**Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/react)
+
+[Flexbox Froggy](http://flexboxfroggy.com/)
