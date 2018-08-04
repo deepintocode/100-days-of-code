@@ -24,3 +24,7 @@
 
 **Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures)
 [Chingu App Repo](https://github.com/chingu-voyage6/Geckos-Team-30)
+
+### Day 3: August 3, 2018
+
+**Today's Progress**: Had some fun with [Flexbox Froggy](http://flexboxfroggy.com/)
