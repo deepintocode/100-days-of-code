@@ -39,3 +39,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/react)
 
 [Flexbox Froggy](http://flexboxfroggy.com/)
+
+### Day 5: August 5, 2018
+
+**Today's Progress**: Worked on [FreeCodeCamp's Redux section](https://learn.freecodecamp.org/front-end-libraries/redux)
+
+**Thoughts:** Today, I went to the beach, so it was a fun day, but I learned that a sunburn and a headache do not help with coding. I also think that it's quite early to learn Redux, when I don't really feel comfortable with React...
+
+**Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/redux)
