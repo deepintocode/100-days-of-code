@@ -47,3 +47,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** Today, I went to the beach, so it was a fun day, but I learned that a sunburn and a headache do not help with coding. I also think that it's quite early to learn Redux, when I don't really feel comfortable with React...
 
 **Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/redux)
+
+### Day 6: August 6, 2018
+
+**Today's Progress**: Worked on [FreeCodeCamp's React and Redux section](https://learn.freecodecamp.org/front-end-libraries/react-and-redux)
+
+**Thoughts:** Redux is really going over my head at the moment. I should finish the Responsive Web Design Certification and then go on with the Front End Library Certification me thinks...
+
+**Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/react-and-redux)
