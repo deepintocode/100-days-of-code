@@ -55,3 +55,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** Redux is really going over my head at the moment. I should finish the Responsive Web Design Certification and then go on with the Front End Library Certification me thinks...
 
 **Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/react-and-redux)
+
+### Day 7: August 7, 2018
+
+**Today's Progress**: Worked on [FreeCodeCamp's Data Visualization with D3 section](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/)
+
+**Thoughts:** The later in the day it gets, the harder to code it becomes...
+
+**Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/)
