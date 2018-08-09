@@ -72,3 +72,10 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Link to work:** [Address Book App](https://github.com/todorare/address-book)
 
+### Day 9: August 9, 2018
+
+**Today's Progress**: Finished [FreeCodeCamp's JSON API and Ajax Section](https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax)
+
+**Thoughts:** Today, I realised how the need for the Fetch API or the Axios library. XMLHttpRequest looks really bad compared to them...
+
+**Link to work:** [FreeCodeCamp's JSON API and Ajax Section](https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax)
