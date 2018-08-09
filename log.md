@@ -63,3 +63,12 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** The later in the day it gets, the harder to code it becomes...
 
 **Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/)
+
+### Day 8: August 8, 2018
+
+**Today's Progress**: Worked on an Address Book App written in Javascript using Materialize CSS
+
+**Thoughts:** Today, I ran into a problem that I wouldn't have if I was using React instead of plain JavaScript. So, I think I'm getting there. Wherever there is...
+
+**Link to work:** [Address Book App](https://github.com/todorare/address-book)
+
