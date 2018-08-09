@@ -76,6 +76,6 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Today's Progress**: Finished [FreeCodeCamp's JSON API and Ajax Section](https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax)
 
-**Thoughts:** Today, I realised how the need for the Fetch API or the Axios library. XMLHttpRequest looks really bad compared to them...
+**Thoughts:** Today, I realised why you need the Fetch API or the Axios library. XMLHttpRequest looks really bad compared to them...
 
 **Link to work:** [FreeCodeCamp's JSON API and Ajax Section](https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax)
