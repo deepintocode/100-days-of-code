@@ -82,7 +82,7 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 ### Day 10: August 10, 2018
 
-**Today's Progress**: Got [FreeCodeCamp's Responsive Web Design Certification]!(https://learn.freecodecamp.org)
+**Today's Progress**: Got [FreeCodeCamp's Responsive Web Design Certification](https://learn.freecodecamp.org)!
 
 **Thoughts:** I was postponing the Technical Documentation project for quite a while. Doesn't sound that interesting, does it? It looks ugly but it's done, so I'm happy!
 
