@@ -87,3 +87,13 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** I was postponing the Technical Documentation project for quite a while. Doesn't sound that interesting, does it? It looks ugly but it's done, so I'm happy!
 
 **Link to work:** [Technical Documentation project on CodePen](https://codepen.io/todorare/pen/pZGvLX)
+
+### Day 11: August 11, 2018
+
+**Today's Progress**: Worked on [FreeCodeCamp's NPM Package Management and Basic Node & Express](https://learn.freecodecamp.org).
+
+**Thoughts:** The NPM packages were nothing new to me. However, while I have worked with Express a bit, this time it kind of clicked more and now seems relatively easy.
+
+**Link to work:** [Npm Package Management](https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm)
+
+[Basic Node and Express](https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express)
