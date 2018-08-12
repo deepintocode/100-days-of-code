@@ -97,3 +97,13 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Link to work:** [Npm Package Management](https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm)
 
 [Basic Node and Express](https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express)
+
+### Day 12: August 12, 2018
+
+**Today's Progress**: Finished [FreeCodeCamp's Markdown Previewer](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer).
+
+**Thoughts:** Wasted a lot of time trying to get FreeCodeCamp's tests to pass, only to get some help online and then find out that it wasn't enough to import the marked module, but you also had to link the CDN, which is quite unfortunate and is in need of a redesign.
+
+**Link to work:** [Markdown Previewer on Github](https://github.com/todorare/markdown-previewer)
+
+[Markdown Previewer Live Link](http://blue-team.surge.sh/)
