@@ -107,3 +107,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Link to work:** [Markdown Previewer on Github](https://github.com/todorare/markdown-previewer)
 
 [Markdown Previewer Live Link](http://blue-team.surge.sh/)
+
+### Day 13: August 13, 2018
+
+**Today's Progress**: Worked on Chingu's Voyage 6 project which is now nearly done.
+
+**Thoughts:** Chingu's project has been a great way to get familiar with React, but there are times when I still don't have a clue as to what I'm doing...
+
+**Link to work:** [Chingu App Repo](https://github.com/chingu-voyage6/Geckos-Team-30)
