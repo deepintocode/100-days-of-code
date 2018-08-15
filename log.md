@@ -121,3 +121,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Had a bit of a break from JavaScript and played around with Python and Pandas.
 
 **Thoughts:** I'm usually trying to avoid working with other languages until I have a firm grasp of JavaScript, but I've been working with JavaScript long enough and I have played around with Python in the past, so I think I should be fine.
+
+### Day 15: August 15, 2018
+
+**Today's Progress**: Finished the Timestamp Microservice on [FreeCodeCamp](https://learn.freecodecamp.org/)
+
+**Thoughts:** Why JavaScript, why? Why do you need undefined, false, null, '', NaN? Why do you need so many falsy values??
+
+**Link to work:** [Timestamp Microservice on Github](https://github.com/todorare/timestamp-microservice)
