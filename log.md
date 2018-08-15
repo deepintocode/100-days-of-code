@@ -124,8 +124,8 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 ### Day 15: August 15, 2018
 
-**Today's Progress**: Finished the Timestamp Microservice on [FreeCodeCamp](https://learn.freecodecamp.org/)
+**Today's Progress**: Finished the Timestamp Microservice project on [FreeCodeCamp](https://learn.freecodecamp.org/)
 
 **Thoughts:** Why JavaScript, why? Why do you need undefined, false, null, '', NaN? Why do you need so many falsy values??
 
-**Link to work:** [Timestamp Microservice on Github](https://github.com/todorare/timestamp-microservice)
+**Link to work:** [Timestamp Microservice project on Github](https://github.com/todorare/timestamp-microservice)
