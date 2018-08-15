@@ -115,3 +115,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** Chingu's project has been a great way to get familiar with React, but there are times when I still don't have a clue as to what I'm doing...
 
 **Link to work:** [Chingu App Repo](https://github.com/chingu-voyage6/Geckos-Team-30)
+
+### Day 14: August 14, 2018
+
+**Today's Progress**: Had a bit of a break from JavaScript and played around with Python and Pandas.
+
+**Thoughts:** I'm usually trying to avoid working with other languages until I have a firm grasp of JavaScript, but I've been working with JavaScript long enough and I have played around with Python in the past, so I think I should be fine.
