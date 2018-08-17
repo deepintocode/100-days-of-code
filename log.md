@@ -137,3 +137,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** The app is not perfect by any means, but it works (for the most part), so there's that!
 
 **Link to work:** [Chingu App](https://github.com/chingu-voyage6/Geckos-Team-30).
+
+### Day 17: August 17, 2018
+
+**Today's Progress**: Worked on the [Exercise Tracker](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker) project in the Apis and Microservices section of FreeCodeCamp.
+
+**Thoughts:** I think I'm starting to like using Express.
+
+**Link to work:** [Exercise Tracker Repo](https://github.com/todorare/exercise-tracker).
