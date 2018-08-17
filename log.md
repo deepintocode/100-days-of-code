@@ -129,3 +129,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** Why JavaScript, why? Why do you need undefined, false, null, '', NaN? Why do you need so many falsy values??
 
 **Link to work:** [Timestamp Microservice project on Github](https://github.com/todorare/timestamp-microservice)
+
+### Day 16: August 16, 2018
+
+**Today's Progress**: Finished the [Chingu App](https://github.com/chingu-voyage6/Geckos-Team-30) for Chingu Voyage 6!
+
+**Thoughts:** The app is not perfect by any means, but it works (for the most part), so there's that!
+
+**Link to work:** [Chingu App](https://github.com/chingu-voyage6/Geckos-Team-30).
