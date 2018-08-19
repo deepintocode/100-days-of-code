@@ -145,3 +145,17 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** I think I'm starting to like using Express.
 
 **Link to work:** [Exercise Tracker Repo](https://github.com/todorare/exercise-tracker).
+
+### Day 18: August 18, 2018
+
+**Today's Progress**: Had a play around with tidalcycles, supercollider, tensorflow and mljs
+
+**Thoughts:** It was a bit of an experimental day!
+
+### Day 19: August 19, 2018
+
+**Today's Progress**: Worked on the [Exercise Tracker](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker) project in the Apis and Microservices section of FreeCodeCamp.
+
+**Thoughts:** Got stuck with the logic behind an array, but managed to get out of the loop, so all is well.
+
+**Link to work:** [Exercise Tracker Repo](https://github.com/todorare/exercise-tracker).
