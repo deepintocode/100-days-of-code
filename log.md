@@ -159,3 +159,13 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** Got stuck with the logic behind an array, but managed to get out of the loop, so all is well.
 
 **Link to work:** [Exercise Tracker Repo](https://github.com/todorare/exercise-tracker).
+
+### Day 20: August 20, 2018
+
+**Today's Progress**: Finished FreeCodeCamp's [Mongo and Mongoose challenges](https://learn.freecodecamp.org/apis-and-microservices/mongodb-and-mongoose).
+
+**Thoughts:** It's taking a while to get my head around mongo and mongoose.
+
+**Link to work:** FreeCodeCamp's [Mongo and Mongoose challenges](https://learn.freecodecamp.org/apis-and-microservices/mongodb-and-mongoose).
+
+
