@@ -168,4 +168,18 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Link to work:** FreeCodeCamp's [Mongo and Mongoose challenges](https://learn.freecodecamp.org/apis-and-microservices/mongodb-and-mongoose).
 
+### Day 21: August 21, 2018
 
+**Today's Progress**: Worked on FreeCodeCamp's [Exercise Tracker Project](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker).
+
+**Thoughts:** Databases are not very fun.
+
+**Link to work:** FreeCodeCamp's [Exercise Tracker Project](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker).
+
+### Day 22: August 22, 2018
+
+**Today's Progress**: Finished FreeCodeCamp's [Exercise Tracker Project](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker).
+
+**Thoughts:** Mongoose can be relatively simple or extremely complicated.
+
+**Link to work:** Finished FreeCodeCamp's [Exercise Tracker Project](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker).
