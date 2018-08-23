@@ -183,3 +183,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** Mongoose can be relatively simple or extremely complicated.
 
 **Link to work:** Finished FreeCodeCamp's [Exercise Tracker Project](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker).
+
+### Day 23: August 23, 2018
+
+**Today's Progress**: Started working on FreeCodeCamp's [Drum Machine](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine).
+
+**Thoughts:** It's nice to be back to working with React.
+
+**Link to work:** [Drum Machine repo on Github](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker).
