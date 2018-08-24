@@ -190,4 +190,12 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Thoughts:** It's nice to be back to working with React.
 
-**Link to work:** [Drum Machine repo on Github](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker).
+**Link to work:** [Drum Machine repo on Github](https://github.com/todorare/drum_machine).
+
+### Day 24: August 24, 2018
+
+**Today's Progress**: Worked on FreeCodeCamp's [Drum Machine](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine).
+
+**Thoughts:** The drum machine is making sound, it's displaying the sound's name, but it's not looking great... Yet!
+
+**Link to work:** [Drum Machine repo on Github](https://github.com/todorare/drum_machine).
