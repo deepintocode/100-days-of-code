@@ -199,3 +199,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** The drum machine is making sound, it's displaying the sound's name, but it's not looking great... Yet!
 
 **Link to work:** [Drum Machine repo on Github](https://github.com/todorare/drum_machine).
+
+## Day 25: August 25, 2018
+
+**Today's Progress**: Worked on FreeCodeCamp's [Drum Machine](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine).
+
+**Thoughts:** I took some time to refactor yesterday's code and it looks much better. I thought that having a switch statement was not optimal. (Hint: It wasn't)
+
+**Link to work:** [Drum Machine repo on Github](https://github.com/todorare/drum_machine).
