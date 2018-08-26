@@ -207,3 +207,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** I took some time to refactor yesterday's code and it looks much better. I thought that having a switch statement for nine cases was not optimal... (Hint: It wasn't)
 
 **Link to work:** [Drum Machine repo on Github](https://github.com/todorare/drum_machine).
+
+## Day 26: August 26, 2018
+
+**Today's Progress**: Finished FreeCodeCamp's [Drum Machine](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine).
+
+**Thoughts:** Didn't have a lot of time today, so I didn't reach the point I wanted, but I think the app looks presentable.
+
+**Link to work:** [Drum Machine repo on Github](https://github.com/todorare/drum_machine).
