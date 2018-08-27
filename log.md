@@ -215,3 +215,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** Didn't have a lot of time today, so I didn't reach the point I wanted, but I think the app looks presentable.
 
 **Link to work:** [Drum Machine repo on Github](https://github.com/todorare/drum_machine).
+
+## Day 27: August 27, 2018
+
+**Today's Progress**: Had a play around with physics, machine learning, ml5js and brain.js.
+
+**Thoughts:** Occasionally, I need to have some breaks from pure web development...
