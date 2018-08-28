@@ -221,3 +221,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Had a play around with physics, machine learning, ml5js and brain.js.
 
 **Thoughts:** Occasionally, I need to have some breaks from pure web development...
+
+## Day 28: August 28, 2018
+
+**Today's Progress**: Worked on FreeCodeCamp's [URL Shortener](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice/).
+
+**Thoughts:** Today, I am quite annoyed with how Mongoose works, the little differences between MongoDB and deprecated Mongoose methods. However, Mongoose is like a dream compared to git. Small piece of advice. Do not try to run "git reset --hard" if you haven't committed anything, because you will delete all the files of the repository. Tomorrow will be a better day...
+
+**Link to work:** FreeCodeCamp's [URL Shortener](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice/).
