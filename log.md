@@ -237,3 +237,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** Reached the same point that I reached yesterday before I deleted everything... Kind of a redundant day.
 
 **Link to work:** FreeCodeCamp's [URL Shortener](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice/).
+
+## Day 30: August 30, 2018
+
+**Today's Progress**: Finished FreeCodeCamp's [URL Shortener](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice/).
+
+**Thoughts:** Getting closer to finishing another section on FreeCodeCamp. Yay!!
+
+**Link to work:** FreeCodeCamp's [URL Shortener repo on Github](https://github.com/todorare/URL_Shortener).
