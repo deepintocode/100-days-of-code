@@ -245,3 +245,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** Getting closer to finishing another section on FreeCodeCamp. Yay!!
 
 **Link to work:** FreeCodeCamp's [URL Shortener repo on Github](https://github.com/todorare/URL_Shortener).
+
+## Day 31: August 31, 2018
+
+**Today's Progress**: Finished FreeCodeCamp's [File Metadata Microservice](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice) and got the APIs and Microservices certification!!
+
+**Thoughts:** Got my third FreeCodeCamp certification today, so I'm quite happy!
+
+**Link to work:** FreeCodeCamp's [File Metadata Microservice repo on Github](https://github.com/todorare/file_metadata).
