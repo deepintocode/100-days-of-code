@@ -253,3 +253,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** Got my third FreeCodeCamp certification today, so I'm quite happy!
 
 **Link to work:** FreeCodeCamp's [File Metadata Microservice repo on Github](https://github.com/todorare/file_metadata).
+
+## Day 32: August 32, 2018
+
+**Today's Progress**: Worked on FreeCodeCamp's [D3 bar chart](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice) project.
+
+**Thoughts:** I don't think FreeCodeCamp's D3 section is very well thought and it's quite hard to find good examples online.
+
+**Link to work:** FreeCodeCamp's [D3 bar chart repo on Github](https://github.com/todorare/bar_chart).
