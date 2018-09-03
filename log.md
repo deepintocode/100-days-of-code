@@ -254,7 +254,15 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Link to work:** FreeCodeCamp's [File Metadata Microservice repo on Github](https://github.com/todorare/file_metadata).
 
-## Day 32: September 1, 2018
+## Day 31: August 31, 2018
+
+**Today's Progress**: Worked on FreeCodeCamp's [Bar Chart with d3js](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart.
+
+**Thoughts:** I think FreeCodeCamp's D3 section is not very well thought and it's quite hard to find good examples online.
+
+**Link to work:** FreeCodeCamp's [Bar Chart repo on Github](https://github.com/todorare/bar_chart).
+
+## Day 33: September 2, 2018
 
 **Today's Progress**: Another day of playing around with tidalcycles
 
