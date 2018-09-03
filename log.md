@@ -267,3 +267,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Another day of playing around with tidalcycles
 
 **Thoughts:** I'm really starting to like live coding and the way of thought behind tidalcycles. Maybe it's good enough to get me back into writing music.
+
+## Day 34: September 3, 2018
+
+**Today's Progress**: Trying to complete FreeCodeCamp's bar chart with d3js...
+
+**Thoughts:** Completing FreeCodeCamp's Data Visualization section is turning out to be quite hard and I don't think I can make it without looking into D3 through extra sources.
