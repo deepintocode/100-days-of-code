@@ -273,3 +273,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Trying to complete FreeCodeCamp's bar chart with d3js...
 
 **Thoughts:** Completing FreeCodeCamp's Data Visualization section is turning out to be quite hard and I don't think I can make it without looking into D3 through extra sources.
+
+## Day 35: September 4, 2018
+
+**Today's Progress**: Worked on a Clash Royale App written in React
+
+**Thoughts:** Had some troubles with the asynchronous nature of Javascript and React state. Maybe Javascript could take into account its own nature and stop throwing undefined left and right... Just wait a bit and it will be defined!!
