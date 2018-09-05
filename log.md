@@ -279,3 +279,10 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Worked on a Clash Royale App written in React
 
 **Thoughts:** Had some troubles with the asynchronous nature of Javascript and React state. Maybe Javascript could take into account its own nature and stop throwing undefined left and right... Just wait a bit and it will be defined!!
+
+## Day 36: September 5, 2018
+
+**Today's Progress**: Working with React. React lifecycle methods, React router and their relationship with JavaScript.
+
+**Thoughts:** When you think that you understand something and then you realise you don't really...
+
