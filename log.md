@@ -286,3 +286,8 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Thoughts:** When you think that you understand something and then you realise you don't really...
 
+## Day 37: September 6, 2018
+
+**Today's Progress**: React, react, react
+
+**Thoughts:** The react way of routing is quite different compared to static routing.
