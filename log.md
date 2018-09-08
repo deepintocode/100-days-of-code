@@ -291,3 +291,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: React, react, react
 
 **Thoughts:** The react way of routing is quite different compared to static routing.
+
+## Day 38: September 7, 2018
+
+**Today's Progress**: Studied React's lifecycle methods
+
+**Thoughts:** I'm getting used to React's way of thinking. At least I think so at the moment...
