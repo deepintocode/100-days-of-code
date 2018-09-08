@@ -70,7 +70,7 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Thoughts:** Today, I ran into a problem that I wouldn't have if I was using React instead of plain JavaScript. So, I think I'm getting there. Wherever there is...
 
-**Link to work:** [Address Book App](https://github.com/todorare/address-book)
+**Link to work:** [Address Book App](https://github.com/deepintocode/address-book)
 
 ### Day 9: August 9, 2018
 
@@ -86,7 +86,7 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Thoughts:** I was postponing the Technical Documentation project for quite a while. Doesn't sound that interesting, does it? It looks ugly but it's done, so I'm happy!
 
-**Link to work:** [Technical Documentation project on CodePen](https://codepen.io/todorare/pen/pZGvLX)
+**Link to work:** [Technical Documentation project on CodePen](https://codepen.io/deepintocode/pen/pZGvLX)
 
 ### Day 11: August 11, 2018
 
@@ -104,7 +104,7 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Thoughts:** Wasted a lot of time trying to get FreeCodeCamp's tests to pass, only to get some help online and then find out that it wasn't enough to import the marked module, but you also had to link the CDN, which is quite unfortunate and is in need of a redesign.
 
-**Link to work:** [Markdown Previewer on Github](https://github.com/todorare/markdown-previewer)
+**Link to work:** [Markdown Previewer on Github](https://github.com/deepintocode/markdown-previewer)
 
 [Markdown Previewer Live Link](http://blue-team.surge.sh/)
 
@@ -128,7 +128,7 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Thoughts:** Why JavaScript, why? Why do you need undefined, false, null, '', NaN? Why do you need so many falsy values??
 
-**Link to work:** [Timestamp Microservice project on Github](https://github.com/todorare/timestamp-microservice)
+**Link to work:** [Timestamp Microservice project on Github](https://github.com/deepintocode/timestamp-microservice)
 
 ### Day 16: August 16, 2018
 
@@ -144,7 +144,7 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Thoughts:** I think I'm starting to like using Express.
 
-**Link to work:** [Exercise Tracker Repo](https://github.com/todorare/exercise-tracker).
+**Link to work:** [Exercise Tracker Repo](https://github.com/deepintocode/exercise-tracker).
 
 ### Day 18: August 18, 2018
 
@@ -158,7 +158,7 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Thoughts:** Got stuck with the logic behind an array, but managed to get out of the loop, so all is well.
 
-**Link to work:** [Exercise Tracker Repo](https://github.com/todorare/exercise-tracker).
+**Link to work:** [Exercise Tracker Repo](https://github.com/deepintocode/exercise-tracker).
 
 ### Day 20: August 20, 2018
 
@@ -190,7 +190,7 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Thoughts:** It's nice to be back to working with React.
 
-**Link to work:** [Drum Machine repo on Github](https://github.com/todorare/drum_machine).
+**Link to work:** [Drum Machine repo on Github](https://github.com/deepintocode/drum_machine).
 
 ### Day 24: August 24, 2018
 
@@ -198,7 +198,7 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Thoughts:** The drum machine is making sound, it's displaying the sound's name, but it's not looking great... Yet!
 
-**Link to work:** [Drum Machine repo on Github](https://github.com/todorare/drum_machine).
+**Link to work:** [Drum Machine repo on Github](https://github.com/deepintocode/drum_machine).
 
 ## Day 25: August 25, 2018
 
@@ -206,7 +206,7 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Thoughts:** I took some time to refactor yesterday's code and it looks much better. I thought that having a switch statement for nine cases was not optimal... (Hint: It wasn't)
 
-**Link to work:** [Drum Machine repo on Github](https://github.com/todorare/drum_machine).
+**Link to work:** [Drum Machine repo on Github](https://github.com/deepintocode/drum_machine).
 
 ## Day 26: August 26, 2018
 
@@ -214,7 +214,7 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Thoughts:** Didn't have a lot of time today, so I didn't reach the point I wanted, but I think the app looks presentable.
 
-**Link to work:** [Drum Machine repo on Github](https://github.com/todorare/drum_machine).
+**Link to work:** [Drum Machine repo on Github](https://github.com/deepintocode/drum_machine).
 
 ## Day 27: August 27, 2018
 
@@ -244,7 +244,7 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Thoughts:** Getting closer to finishing another section on FreeCodeCamp. Yay!!
 
-**Link to work:** FreeCodeCamp's [URL Shortener repo on Github](https://github.com/todorare/URL_Shortener).
+**Link to work:** FreeCodeCamp's [URL Shortener repo on Github](https://github.com/deepintocode/URL_Shortener).
 
 ## Day 31: August 31, 2018
 
@@ -252,7 +252,7 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Thoughts:** Got my third FreeCodeCamp certification today, so I'm quite happy!
 
-**Link to work:** FreeCodeCamp's [File Metadata Microservice repo on Github](https://github.com/todorare/file_metadata).
+**Link to work:** FreeCodeCamp's [File Metadata Microservice repo on Github](https://github.com/deepintocode/file_metadata).
 
 ## Day 32: September 1, 2018
 
@@ -260,7 +260,7 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Thoughts:** I think FreeCodeCamp's D3 section is not very well thought and it's quite hard to find good examples online.
 
-**Link to work:** FreeCodeCamp's [Bar Chart repo on Github](https://github.com/todorare/bar_chart).
+**Link to work:** FreeCodeCamp's [Bar Chart repo on Github](https://github.com/deepintocode/bar_chart).
 
 ## Day 33: September 2, 2018
 
@@ -297,3 +297,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Studied React's lifecycle methods
 
 **Thoughts:** I'm getting used to React's way of thinking. At least I think so at the moment...
+
+## Day 38: September 7, 2018
+
+**Today's Progress**: Had fun with p5js
+
+**Thoughts:** I want to mix creative coding into my coding endeavours. I think it spices things up and probably helping in the long run.
+
+**Link to work:** [p5js Experiments repo on Github](https://github.com/deepintocode/p5js_Experiments).
