@@ -302,6 +302,6 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Today's Progress**: Had fun with p5js
 
-**Thoughts:** I want to mix creative coding into my coding endeavours. I think it spices things up and probably helping in the long run.
+**Thoughts:** I want to mix creative coding into my coding endeavours. I think it spices things up and will probably help in the long run.
 
 **Link to work:** [p5js Experiments repo on Github](https://github.com/deepintocode/p5js_Experiments).
