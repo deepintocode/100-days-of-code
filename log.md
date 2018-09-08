@@ -298,7 +298,7 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Thoughts:** I'm getting used to React's way of thinking. At least I think so at the moment...
 
-## Day 38: September 7, 2018
+## Day 39: September 8, 2018
 
 **Today's Progress**: Had fun with p5js
 
