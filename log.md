@@ -305,3 +305,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** I want to mix creative coding into my coding endeavours. I think it spices things up and will probably help in the long run.
 
 **Link to work:** [p5js Experiments repo on Github](https://github.com/deepintocode/p5js_Experiments).
+
+## Day 40: September 9, 2018
+
+**Today's Progress**: Had some fun with tidalcycles and got a new domain name for my creative coding efforts.
+
+**Thoughts:** Live coding with tidalcycles is really fun, albeit a bit confusing to begin with.
+
+**Link to work:** [Tidalcycles cycles repo on Github](https://github.com/deepintocode/tidalcycles_cycles).
