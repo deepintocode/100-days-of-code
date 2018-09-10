@@ -313,3 +313,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** Live coding with tidalcycles is really fun, albeit a bit confusing to begin with.
 
 **Link to work:** [Tidalcycles cycles repo on Github](https://github.com/deepintocode/tidalcycles_cycles).
+
+## Day 41: September 10, 2018
+
+**Today's Progress**: Went back to playing with React and React router
+
+**Thoughts:** I still find styling hard. Maybe I should look back into CSS and try and improve my design skills.
