@@ -333,3 +333,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** I'm not sure if adding API calls to React makes it harder, but when I don't have to deal with that things seem easier.
 
 **Link to work:** [React calculator repo on Github](https://github.com/deepintocode/calculator).
+
+## Day 44: September 13, 2018
+
+**Today's Progress**: Worked on [FreeCodeCamp's JavaScript calculator](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator) and a bit of P5js.
+
+**Thoughts:** Note to self: Read the entire guidelines BEFORE you start coding!!
+
+**Link to work:** [React calculator repo on Github](https://github.com/deepintocode/calculator).
