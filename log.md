@@ -316,6 +316,20 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 ## Day 41: September 10, 2018
 
-**Today's Progress**: Went back to playing with React and React router
+**Today's Progress**: Went back to playing with React and React router.
 
 **Thoughts:** I still find styling hard. Maybe I should look back into CSS and try and improve my design skills.
+
+## Day 42: September 11, 2018
+
+**Today's Progress**: Still trying to find my way around React.
+
+**Thoughts:** Spent the day mostly reading and watching videos about React. Feels a bit like going around in circles.
+
+## Day 43: September 12, 2018
+
+**Today's Progress**: Worked on [FreeCodeCamp's JavaScript calculator](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator).
+
+**Thoughts:** I'm not sure if adding API calls to React makes it harder, but when I don't have to deal with that things seem easier.
+
+**Link to work:** [React calculator repo on Github](https://github.com/deepintocode/calculator).
