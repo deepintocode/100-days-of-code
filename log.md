@@ -341,3 +341,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** Note to self: Read the entire guidelines BEFORE you start coding!!
 
 **Link to work:** [React calculator repo on Github](https://github.com/deepintocode/calculator).
+
+## Day 45: September 14, 2018
+
+**Today's Progress**: Worked on [FreeCodeCamp's JavaScript calculator](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator) and a bit of P5js.
+
+**Thoughts:** I wasn't expecting that building a calculator would be this tricky...
+
+**Link to work:** [React calculator repo on Github](https://github.com/deepintocode/calculator).
