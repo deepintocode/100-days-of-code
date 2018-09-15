@@ -349,3 +349,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** I wasn't expecting that building a calculator would be this tricky...
 
 **Link to work:** [React calculator repo on Github](https://github.com/deepintocode/calculator).
+
+## Day 46: September 15, 2018
+
+**Today's Progress**: Finished [FreeCodeCamp's JavaScript calculator](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator).
+
+**Thoughts:** One more project left to finish the front end libraries projects on FreeCodeCamp!! Getting there!
+
+**Link to work:** [React calculator repo on Github](https://github.com/deepintocode/calculator).
