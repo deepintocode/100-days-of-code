@@ -357,3 +357,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** One more project left to finish the front end libraries projects on FreeCodeCamp!! Getting there!
 
 **Link to work:** [React calculator repo on Github](https://github.com/deepintocode/calculator).
+
+## Day 47: September 16, 2018
+
+**Today's Progress**: Started building a new blog using Gatsbyjs and played with p5js for a bit.
+
+**Thoughts:** Using a technology that's based on Reactjs kind of feels good.
