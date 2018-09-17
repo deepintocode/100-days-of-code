@@ -363,3 +363,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Started building a new blog using Gatsbyjs and played with p5js for a bit.
 
 **Thoughts:** Using a technology that's based on Reactjs kind of feels good.
+
+## Day 47: September 16, 2018
+
+**Today's Progress**: P5js for today.
+
+**Thoughts:** Probably going back to React, or Gatsby tomorrow.
