@@ -364,8 +364,16 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Thoughts:** Using a technology that's based on Reactjs kind of feels good.
 
-## Day 47: September 16, 2018
+## Day 48: September 17, 2018
 
 **Today's Progress**: P5js for today.
 
 **Thoughts:** Probably going back to React, or Gatsby tomorrow.
+
+## Day 49: September 18, 2018
+
+**Today's Progress**: Started working on [FreeCodeCamp's pomodoro clock](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock).
+
+**Thoughts:** I don't really have issues shifting from React to p5js, or even to pure Processing, so I'm guessing it shouldn't be an issue mixing up a few languages at this point.
+
+**Link to work:** [React pomodoro clock repo on Github](https://github.com/deepintocode/pomodoro_clock).
