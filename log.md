@@ -377,3 +377,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** I don't really have issues shifting from React to p5js, or even to pure Processing, so I'm guessing it shouldn't be an issue mixing up a few languages at this point.
 
 **Link to work:** [React pomodoro clock repo on Github](https://github.com/deepintocode/pomodoro_clock).
+
+## Day 50: September 19, 2018
+
+**Today's Progress**: Finished [FreeCodeCamp's pomodoro clock](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock). Kind of...
+
+**Thoughts:** While the pomodoro clock seems to be working just fine, a couple of tests are failing. Not really a fan of the way FreeCodeCamp's tests are working. 
+
+**Link to work:** [React pomodoro clock repo on Github](https://github.com/deepintocode/pomodoro_clock).
