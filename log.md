@@ -385,3 +385,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** While the pomodoro clock seems to be working just fine, a couple of tests are failing. Not really a fan of the way FreeCodeCamp's tests are working. 
 
 **Link to work:** [React pomodoro clock repo on Github](https://github.com/deepintocode/pomodoro_clock).
+
+## Day 51: September 20, 2018
+
+**Today's Progress**: A bit of p5js for good measure
+
+**Thoughts:** Busy day, so not a lot of coding for today.
