@@ -391,3 +391,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: A bit of p5js for good measure
 
 **Thoughts:** Busy day, so not a lot of coding for today.
+
+## Day 52: September 21, 2018
+
+**Today's Progress**: Fixed my pomodoro clock's issues and then dwelved into processing. Actual Processing, not p5js.
+
+**Thoughts:** Getting into Processing... Java... I've done this before. Doesn't seem that bad at this point.
