@@ -397,3 +397,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Fixed my pomodoro clock's issues and then dwelved into processing. Actual Processing, not p5js.
 
 **Thoughts:** Getting into Processing... Java... I've done this before. Doesn't seem that bad at this point.
+
+## Day 53: September 22, 2018
+
+**Today's Progress**: Went through the official Gatsbyjs tutorial and explored physics engine basics in Processing.
+
+**Thoughts:** Gatsby is still a bit too much for me. I'm not sure if it's Gatsby or GraphQL though...
