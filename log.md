@@ -403,3 +403,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Went through the official Gatsbyjs tutorial and explored physics engine basics in Processing.
 
 **Thoughts:** Gatsby is still a bit too much for me. I'm not sure if it's Gatsby or GraphQL though...
+
+# Day 54: September 23, 2018
+
+**Today's Progress**: Finished [FreeCodeCamp's Quality Assurance and Testing with Chai section](https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai)
+
+**Thoughts:** Don't really feel that I'm learning in some sections of FreeCodeCamp. This was definitely one of them.
+
+**Link to work:** [FreeCodeCamp's Quality Assurance and Testing with Chai section](https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai)
