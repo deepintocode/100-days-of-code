@@ -411,3 +411,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** Don't really feel that I'm learning in some sections of FreeCodeCamp. This was definitely one of them.
 
 **Link to work:** [FreeCodeCamp's Quality Assurance and Testing with Chai section](https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai)
+
+# Day 55: September 24, 2018
+
+**Today's Progress**: Started [FreeCodeCamp's Introduction to Advanced Node and Express Challenges](https://learn.freecodecamp.org/information-security-and-quality-assurance/advanced-node-and-express/)
+
+**Thoughts:** Not really loving this section of FreeCodeCamp...
+
+**Link to work:** [FreeCodeCamp's Introduction to Advanced Node and Express Challenges](https://learn.freecodecamp.org/information-security-and-quality-assurance/advanced-node-and-express/)
