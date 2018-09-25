@@ -419,3 +419,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** Not really loving this section of FreeCodeCamp...
 
 **Link to work:** [FreeCodeCamp's Introduction to Advanced Node and Express Challenges](https://learn.freecodecamp.org/information-security-and-quality-assurance/advanced-node-and-express/)
+
+# Day 56: September 25, 2018
+
+**Today's Progress**: Tried to make some progress with [FreeCodeCamp's Introduction to Advanced Node and Express Challenges](https://learn.freecodecamp.org/information-security-and-quality-assurance/advanced-node-and-express/) and eventually gave up.
+
+**Thoughts:** I'm going to leave this section of FreeCodeCamp for now, because I find it very badly designed and a source of frustration...
+
+**Link to work:** [FreeCodeCamp's Introduction to Advanced Node and Express Challenges](https://learn.freecodecamp.org/information-security-and-quality-assurance/advanced-node-and-express/)
