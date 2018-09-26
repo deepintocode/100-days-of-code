@@ -427,3 +427,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** I'm going to leave this section of FreeCodeCamp for now, because I find it very badly designed and a source of frustration...
 
 **Link to work:** [FreeCodeCamp's Introduction to Advanced Node and Express Challenges](https://learn.freecodecamp.org/information-security-and-quality-assurance/advanced-node-and-express/)
+
+# Day 57: September 26, 2018
+
+**Today's Progress**: Went back to the basics and started re-reading the [You Don't Know JS series](https://github.com/getify/You-Dont-Know-JS), which is highly recommended.
+
+**Thoughts:** While these books are good, they always include some baffling examples of code that make you wonder if you really know what you're doing. Then again, that's probably why they do it...
