@@ -433,3 +433,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Went back to the basics and started re-reading the [You Don't Know JS series](https://github.com/getify/You-Dont-Know-JS), which is highly recommended.
 
 **Thoughts:** While these books are good, they always include some baffling examples of code that make you wonder if you really know what you're doing. Then again, that's probably why they do it...
+
+# Day 58: September 27, 2018
+
+**Today's Progress**: Went further back to the basics and started re-reading [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/).
+
+**Thoughts:** I always feel like I'm struggling a bit with CSS, so I decided to drill into this great resource once again. Re-reading it after having more hands-on experience definitely helps.
