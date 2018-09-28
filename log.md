@@ -439,3 +439,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Went further back to the basics and started re-reading [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/).
 
 **Thoughts:** I always feel like I'm struggling a bit with CSS, so I decided to drill into this great resource once again. Re-reading it after having more hands-on experience definitely helps.
+
+# Day 59: September 28, 2018
+
+**Today's Progress**: Finished with the advanced section of [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/).
+
+**Thoughts:** Not a lot of time to code today, but I finished my back to basics section and I attended a live coding music event, so there's that.
