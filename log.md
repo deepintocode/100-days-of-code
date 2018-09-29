@@ -445,3 +445,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Finished with the advanced section of [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/).
 
 **Thoughts:** Not a lot of time to code today, but I finished my back to basics section and I attended a live coding music event, so there's that.
+
+# Day 60: September 29, 2018
+
+**Today's Progress**: Started recreating an [HTML template](https://www.os-templates.com/free-website-templates/hoppler)
+
+**Thoughts:** I want to improve my CSS skills. Often people disregard CSS because they think it's easy. I don't agree. I just think it's annoying!
+
+**Link to work:** [Simple HTML & CSS website](https://github.com/deepintocode/simple-html-css-website-001)
