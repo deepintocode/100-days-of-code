@@ -459,3 +459,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Had a play around with live music coding and Sonic Pi specifically.
 
 **Thoughts:** My free time is way more limited starting from tomorrow, so I need to find a way to keep coding every day.
+
+# Day 60: September 29, 2018
+
+**Today's Progress**: Worked on a [HTML template](https://www.os-templates.com/free-website-templates/hoppler)
+
+**Thoughts:** Maybe my CSS skills are not that horrible, but I still find some parts tricky.
+
+**Link to work:** [Simple HTML & CSS website](https://github.com/deepintocode/simple-html-css-website-001)
