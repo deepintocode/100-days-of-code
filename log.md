@@ -453,3 +453,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** I want to improve my CSS skills. Often people disregard CSS because they think it's easy. I don't agree. I just think it's annoying!
 
 **Link to work:** [Simple HTML & CSS website](https://github.com/deepintocode/simple-html-css-website-001)
+
+# Day 61: September 30, 2018
+
+**Today's Progress**: Had a play around with live music coding and Sonic Pi specifically.
+
+**Thoughts:** My free time is way more limited starting from tomorrow, so I need to find a way to keep coding every day.
