@@ -475,3 +475,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** Programming - Where your code works until you add some new code and then your old code is broken...
 
 **Link to work:** [Simple HTML & CSS website](https://github.com/deepintocode/simple-html-css-website-001)
+
+# Day 64: October 3, 2018
+
+**Today's Progress**: Solved some JavaScript katas over at Codewars.
+
+**Thoughts:** It's quite hard to find time during these days, but I'm doing my best to do some coding snippets throughout the day.
+
+**Link to work:** [Codewars Katas](https://github.com/deepintocode/codewars_javascript)
