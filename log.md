@@ -483,3 +483,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** It's quite hard to find time during these days, but I'm doing my best to do some coding snippets throughout the day.
 
 **Link to work:** [Codewars Katas](https://github.com/deepintocode/codewars_javascript)
+
+# Day 65: October 4, 2018
+
+**Today's Progress**: Solved some more JavaScript katas over at Codewars.
+
+**Thoughts:** A little bit of this, a little bit of that.
+
+**Link to work:** [Codewars Katas](https://github.com/deepintocode/codewars_javascript)
