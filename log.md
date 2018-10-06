@@ -491,3 +491,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** A little bit of this, a little bit of that.
 
 **Link to work:** [Codewars Katas](https://github.com/deepintocode/codewars_javascript)
+
+# Day 65: October 4, 2018
+
+**Today's Progress**: Solved some more JavaScript katas over at Codewars and played around with p5js.
+
+**Thoughts:** Is it still coding if it feels like math or trigonometry?
+
+**Link to work:** [Codewars Katas](https://github.com/deepintocode/codewars_javascript)
