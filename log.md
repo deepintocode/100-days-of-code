@@ -492,10 +492,18 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 
 **Link to work:** [Codewars Katas](https://github.com/deepintocode/codewars_javascript)
 
-# Day 65: October 4, 2018
+# Day 66: October 5, 2018
 
 **Today's Progress**: Solved some more JavaScript katas over at Codewars and played around with p5js.
 
 **Thoughts:** Is it still coding if it feels like math or trigonometry?
 
 **Link to work:** [Codewars Katas](https://github.com/deepintocode/codewars_javascript)
+
+# Day 67: October 6, 2018
+
+**Today's Progress**: I'm wrapping up my [HTML template](https://www.os-templates.com/free-website-templates/hoppler)
+
+**Thoughts:** I'm happy with my template, so I'm going to finish it and keep on doing CSS stuff for a bit
+
+**Link to work:** [Simple HTML & CSS website](https://github.com/deepintocode/simple-html-css-website-001)
