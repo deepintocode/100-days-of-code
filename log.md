@@ -507,3 +507,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Thoughts:** I'm happy with my template, so I'm going to finish it and keep on doing CSS stuff for a bit
 
 **Link to work:** [Simple HTML & CSS website](https://github.com/deepintocode/simple-html-css-website-001)
+
+# Day 68: October 7, 2018
+
+**Today's Progress**: Mainly read [this & objects] from the You Don't Know JS series
+
+**Thoughts:** Sometimes it's hard to find something to code...
