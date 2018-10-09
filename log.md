@@ -513,3 +513,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Mainly read [this & objects] from the You Don't Know JS series
 
 **Thoughts:** Sometimes it's hard to find something to code...
+
+# Day 69: October 8, 2018
+
+**Today's Progress**: Solved some more JavaScript katas over at Codewars.
+
+**Link to work:** [Codewars Katas](https://github.com/deepintocode/codewars_javascript)
