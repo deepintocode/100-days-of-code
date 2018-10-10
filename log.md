@@ -519,3 +519,7 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Solved some more JavaScript katas over at Codewars.
 
 **Link to work:** [Codewars Katas](https://github.com/deepintocode/codewars_javascript)
+
+# Day 70: October 9, 2018
+
+**Today's Progress**: Had a deeper look into JavaScript's .prototype
