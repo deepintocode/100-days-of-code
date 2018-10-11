@@ -523,3 +523,9 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 # Day 70: October 9, 2018
 
 **Today's Progress**: Had a deeper look into JavaScript's .prototype
+
+# Day 71: October 10, 2018
+
+**Today's Progress**: Had a initial look into Amazon AWS
+
+**Thoughts:** Really struggling to find time these days...
