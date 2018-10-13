@@ -529,3 +529,15 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Had a initial look into Amazon AWS
 
 **Thoughts:** Really struggling to find time these days...
+
+# Day 72: October 11, 2018
+
+**Today's Progress**: Amazon AWS
+
+**Thoughts:** Really struggling to find time these days...
+
+# Day 73: October 12, 2018
+
+**Today's Progress**: Going through a d3js tutorial
+
+**Thoughts:** Hoping to get another FreeCodeCamp certification soon.
