@@ -541,3 +541,13 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Going through a d3js tutorial
 
 **Thoughts:** Hoping to get another FreeCodeCamp certification soon.
+
+# Day 74: October 13, 2018
+
+**Today's Progress**: Amazon AWS for today
+
+# Day 75: October 14, 2018
+
+**Today's Progress**: Another day of AWS
+
+**Thoughts:** Probably going back to d3js tomorrow
