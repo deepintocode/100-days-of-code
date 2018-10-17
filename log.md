@@ -551,3 +551,11 @@ Finished [FreeCodeCamp's React section](https://learn.freecodecamp.org/front-end
 **Today's Progress**: Another day of AWS
 
 **Thoughts:** Probably going back to d3js tomorrow
+
+# Day 76: October 15, 2018
+
+**Today's Progress**: A bit more of AWS
+
+# Day 77: October 16, 2018
+
+**Today's Progress**: Last day of AWS... probably...
